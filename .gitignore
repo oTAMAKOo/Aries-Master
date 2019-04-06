@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.mdb
+*.mdb.meta
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+
+# MasterConverter
+*.user
+
+# Master
+*.xlsx
+!ClassSchema.xlsx

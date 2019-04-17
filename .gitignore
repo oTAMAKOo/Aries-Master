@@ -11,5 +11,7 @@ Thumbs.db
 *.user
 
 # Master
-*.xlsx
 !ClassSchema.xlsx
+*.xlsx
+*.master
+*.yml

@@ -1,0 +1,4 @@
+- column: 4
+  fontColor:
+    rgb: FF000000
+  patternType: None

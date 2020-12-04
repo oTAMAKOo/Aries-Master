@@ -1,0 +1,9 @@
+- column: 3
+  fontColor:
+    rgb: FF00B0F0
+  patternType: None
+- column: 6
+  fontColor:
+    theme: Accent4
+    tint: -0.249977111117893
+  patternType: None

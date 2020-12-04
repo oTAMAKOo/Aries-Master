@@ -1,0 +1,9 @@
+- column: 2
+  fontColor:
+    theme: Accent1
+    tint: -0.499984740745262
+  patternType: None
+- column: 4
+  backgroundColor:
+    rgb: FFFFFF00
+  patternType: Solid

@@ -1,0 +1,8 @@
+- column: 3
+  comment: めもめもめお
+  patternType: None
+- column: 5
+  backgroundColor:
+    theme: Accent6
+    tint: 0.59999389629810485
+  patternType: Solid

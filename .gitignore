@@ -2,6 +2,7 @@
 Thumbs.db
 *.mdb
 *.mdb.meta
+*.lnk
 
 [Ll]ibrary/
 [Tt]emp/

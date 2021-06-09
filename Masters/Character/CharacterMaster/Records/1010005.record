@@ -1,9 +1,13 @@
 CharacterId: 1010005
 ProfileId: 2
+CrownName: ''
 Name: ペコリーヌ
 Rarity: 5
 Element: 1
 Role: 2
+UltimateSkillId: 
+ActiveSkillId: 
+PassiveSkillId: 
 Description: >-
   前衛にて、全力で仲間を護る、腹ペコ剣士。
 

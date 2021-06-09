@@ -6,5 +6,7 @@ Rarity: 5
 Element: 1
 Role: 4
 UltimateSkillId: 5
+ActiveSkillId: 
+PassiveSkillId: 
 Description: '---'
 ThumbnailAtlas: 0001

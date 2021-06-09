@@ -1,4 +1,8 @@
 - column: 4
+  comment: ''
   fontColor:
     rgb: FF000000
+    theme: 
+    tint: 
+  backgroundColor: 
   patternType: None
